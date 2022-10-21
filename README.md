@@ -42,7 +42,7 @@ Henry Bootcamp, Buenos Aires, Argentina.
 
 <table style="width:100%">
   <tr>
-    <th>LandingPage</p></th>
+    <th>LandingPage</th>
     <th>Contact</th>
     <th>Country</th>
      <th>Country</th>
@@ -51,12 +51,13 @@ Henry Bootcamp, Buenos Aires, Argentina.
     <td><p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/1f.png"></td>
     <td<p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/2f.png"></td>
     <td><p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/4f.png"></td>
-      <td><p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png"></td>
+    <td><p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png"></td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
+   <td>Mexico</td>
   </tr>
 </table>
 
