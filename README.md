@@ -41,9 +41,9 @@ Henry Bootcamp, Buenos Aires, Argentina.
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-       <img height="64px" src="[https://cdn.svgporn.com/logos/css-3.svg](https://user-images.githubusercontent.com/78236849/197264047-f5fb8fe9-e613-462c-bd60-7b05c6460b05.png)">
+       <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg](https://user-images.githubusercontent.com/78236849/197264047-f5fb8fe9-e613-462c-bd60-7b05c6460b05.png">
       
       </td>
       <td width="25%" align="center">
