@@ -38,19 +38,7 @@ Henry Bootcamp, Buenos Aires, Argentina.
 ●	Diseñar y desarrollar una App de Food Recipes que incluía: búsquedas, filtrados, ordenamientos y creación
 ●	Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.  
 
-<table>
-  <tbody>
-    <tr valign="top">
-      
-      <td width="50%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="[https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png)">
-      </td>
-    </tr>
-  
-  </tbody>
-</table>
+<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
  
 
