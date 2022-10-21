@@ -43,29 +43,26 @@ Henry Bootcamp, Buenos Aires, Argentina.
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/1f.png">
       </td>
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/2f.png">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/4f.png">
       </td>
       <td width="25%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png">
       </td>
     </tr>
   
   </tbody>
 </table>
 
-![1f](https://user-images.githubusercontent.com/78236849/197264047-f5fb8fe9-e613-462c-bd60-7b05c6460b05.png)
-![2f](https://user-images.githubusercontent.com/78236849/197264057-7915ceaf-7553-44b9-8916-83a2a0a10b0f.png)
-![3f](https://user-images.githubusercontent.com/78236849/197264062-034af9b6-9ce9-46f9-b47e-4105d3564d73.png)
-![4f](https://user-images.githubusercontent.com/78236849/197264064-5a3c58e4-1410-4aea-a284-cdc8bf8d5399.png)
+ 
 
 
