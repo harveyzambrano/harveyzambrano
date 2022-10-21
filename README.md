@@ -49,7 +49,7 @@ Henry Bootcamp, Buenos Aires, Argentina.
   </tr>
   <tr>
     <td><p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/1f.png"></td>
-    <td<p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/2f.png"></td>
+    <td><p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/2f.png"></td>
     <td><p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/4f.png"></td>
     <td><p align="center"><img width=100% src="https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png"></td>
   </tr>
