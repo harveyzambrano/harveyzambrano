@@ -53,7 +53,7 @@ Henry Bootcamp, Buenos Aires, Argentina.
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/4f.png">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
         <img height="64px" src="[https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png)">
