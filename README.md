@@ -56,7 +56,7 @@ Henry Bootcamp, Buenos Aires, Argentina.
       <td width="25%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png">
+        <img height="64px" src="[https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png](https://github.com/harveyzambrano/PROYECTO-FULL-STACK-INDIVIDUAL/blob/main/client/src/Media/3f.png)">
       </td>
     </tr>
   
