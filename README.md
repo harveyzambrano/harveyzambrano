@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
  
- 
+ <a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel2904&theme=radical&hide=glsl,python" />
+</a>
  
 PROYECTOS
 Full Stack Web Developer – Foods Recipes App					oct. 2 - oct. 20 / 2022
@@ -56,8 +58,6 @@ Henry Bootcamp, Buenos Aires, Argentina.
  </table>
 
  
-<a href="https://github.com/Neel2904">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel2904&theme=radical&hide=glsl,python" />
-</a>
+
 
 
