@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+    	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+</div>
  
 
 ### Tech & Tools Preference
@@ -29,10 +34,7 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
  
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
-
-⭐️ From [Shreya549](https://github.com/Shreya549)
+ 
  
 PROYECTOS
 Full Stack Web Developer – Foods Recipes App					oct. 2 - oct. 20 / 2022
