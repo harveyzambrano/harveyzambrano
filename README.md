@@ -1,4 +1,4 @@
-#Hi there 👋
+
 
 <!--
 **harveyzambrano/harveyzambrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200"> ###Hi there 👋
 	<br>    	
 </div>
  
