@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy un Profesional en Ciencias Físicas y Desarrolador web Full Stack en Desarrollo Web. Poseo experiencia en proyectos con tecnologías como NodeJS, React, Redux, SQL y otras herramientas del sector, con habilidades para la resolución de problemas, capacidad de trabajo en equipo, buena comunicación y autonomía.  
-
+ 
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200"> 
